@@ -1,0 +1,22 @@
+{
+  "name": "reduxx",
+  "version": "1.0.0",
+  "description": "ReactJs state management library by Bitcoin-Api.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test/setUpAndRunTheOfficialReduxXTestSuite.sh"
+  },
+  "author": "Bitcoin-Api.io",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "chai": "^4.1.2",
+    "execa": "^2.0.4",
+    "mocha": "^6.2.0",
+    "nyc": "^15.0.0",
+    "proxyquire": "^1.8.0",
+    "sinon": "^4.4.2"
+  }
+}
