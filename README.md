@@ -1,8 +1,9 @@
-# reduxx
+# react-state-management
 
-[![npm version](https://badge.fury.io/js/react-state-managment.svg)](https://badge.fury.io/js/react-state-managment)
+[![npm version](https://badge.fury.io/js/react-state-management.svg)](https://badge.fury.io/js/react-state-management)
 
-A powerfully light-hearted state management library designed for effortless React code development.
+### react-state-management AKA ReduxX
+A powerfully light-hearted state management library designed for effortless React code development
 
 ## Main Features:
 * **all you need to know:** import `getState` and `setState` and you can use those functions anywhere to access and to update your state, so simple!!😌
@@ -37,13 +38,13 @@ A powerfully light-hearted state management library designed for effortless Reac
 
 To install ReduxX, input the following npm command:
 ```
-npm install reduxx --save
+npm install react-state-management --save
 ```
 
 In the directory of your main React component, the most parent component that contains all your other components, add the following `reduxX.js` file:
 
 ```.js
-import ReduxX from 'reduxx';
+import ReduxX from 'react-state-management';
 
 
 export const {
@@ -222,7 +223,7 @@ setState({ keys [ 'user' ], value: { id: 69 } });
 //  (these invocations involve setting multiple values at once)
 setState(
 
-    [ 'user', 'name' ], 'Danny',
+    [ 'user', 'name' ], 'Jar Jar Binks',
     'user', { id: 69 },
     [ 'user', 'game' ], 'React state library author'
 );
@@ -230,7 +231,7 @@ setState(
 
     {
         keys: [ 'user', 'name' ],  
-        value: 'Danny'
+        value: 'Jar Jar Binks'
     },
     {
         keys: [ 'user' ],  
@@ -271,7 +272,7 @@ import ReduxX, {
     */
     v,
 
-} from 'reduxx';
+} from 'react-state-management';
 
 
 export const {
