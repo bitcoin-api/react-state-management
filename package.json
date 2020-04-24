@@ -1,6 +1,6 @@
 {
   "name": "react-state-management",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ReactJs state management library by Bitcoin-Api.io",
   "main": "index.js",
   "scripts": {
