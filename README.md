@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/react-state-management.svg)](https://badge.fury.io/js/react-state-management)
 
 ### react-state-management AKA ReduxX
-A powerfully light-hearted state management library designed for effortless React code development
+A lightweight yet ultra-powerful and robust state management library designed for effortless React and React-Native code development
 
 ## Main Features:
 * **all you need to know:** import `getState` and `setState` and you can use those functions anywhere to access and to update your state, so simple!!😌
