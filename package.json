@@ -1,6 +1,6 @@
 {
   "name": "react-state-management",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ReactJs state management library by Bitcoin-Api.io",
   "main": "index.js",
   "scripts": {
@@ -24,15 +24,15 @@
     "sinon": "^4.4.2"
   },
   "keywords": [
-      "react",
-      "state",
-      "management",
-      "redux",
-      "reduxx",
-      "easy",
-      "simple",
-      "light",
-      "fast",
-      "global"
+    "react",
+    "state",
+    "management",
+    "redux",
+    "reduxx",
+    "easy",
+    "simple",
+    "light",
+    "fast",
+    "global"
   ]
 }
