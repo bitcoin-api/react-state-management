@@ -6,6 +6,10 @@
   "scripts": {
     "test": "./test/setUpAndRunTheOfficialReduxXTestSuite.sh"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcoin-api/react-state-management.git"
+  },
   "author": "Bitcoin-Api.io",
   "license": "ISC",
   "devDependencies": {
@@ -18,5 +22,17 @@
     "nyc": "^15.0.0",
     "proxyquire": "^1.8.0",
     "sinon": "^4.4.2"
-  }
+  },
+  "keywords": [
+      "react",
+      "state",
+      "management",
+      "redux",
+      "reduxx",
+      "easy",
+      "simple",
+      "light",
+      "fast",
+      "global"
+  ]
 }
