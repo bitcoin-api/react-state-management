@@ -18,7 +18,7 @@
     "@babel/preset-env": "^7.5.5",
     "chai": "^4.1.2",
     "execa": "^2.0.4",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "nyc": "^15.0.0",
     "proxyquire": "^1.8.0",
     "sinon": "^4.4.2"
